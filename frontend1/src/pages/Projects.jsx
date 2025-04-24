@@ -6,13 +6,13 @@ export default function Projects() {
       title: "Sistema de Gestão de Tarefas",
       description: "API RESTful com autenticação JWT e Spring Security",
       tech: ["Java 17", "Spring Boot 3", "H2", "JWT"],
-      link: "https://github.com/seuuser/task-manager" // Link real do projeto
+      link: "https://github.com/caiocesarsilva7/jafaco" // Link real do projeto
     },
     {
       title: "Plataforma E-Commerce",
       description: "Microsserviços com Spring Cloud e Docker",
       tech: ["Spring Cloud", "RabbitMQ", "Docker", "OAuth2"],
-      link: "https://github.com/seuuser/ecommerce-platform" // Link real do projeto
+      link: "https://github.com/caiocesarsilva7/embreve" // Link real do projeto
     }
   ]
 
